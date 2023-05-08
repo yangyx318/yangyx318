@@ -2,14 +2,12 @@
 I'm a **Data Scientist and Business Intelligence Engineer** with a passion for solving complex problems using technology solutions. I recently graduated from Calrson School of Management with a **Master's degree in Business Analytics**. I'm a fast-learning problem solver with a creative flair, eager to explore deeper insights into human habits and business processes.
 
 ### 🚀 Skills and Expertise
-- Data Analysis               
+- Exploratory Data Analysis               
 - Machine Learning
 - Statistical Modeling
 - Business Intelligence
-- SQL
-- Python, R 
-- Tableau, Power BI
-- Data Visualization
+- Python, R, SQL 
+- Data Visualization: Tableau, Power BI
 
 ### 📫 Get in Touch
 <p align="left">
